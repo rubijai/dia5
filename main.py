@@ -238,4 +238,4 @@ def calculate1(n,**kwargs):
         n *= kwargs['multiply']
     return n
 
-print(calculate1(5,add=3,multiply=6))
+print(calculate1(5,add=6,multiply=9))
